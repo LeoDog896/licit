@@ -1,0 +1,16 @@
+{
+  "name": "licit",
+  "version": "1.0.0",
+  "description": "Robust, framework-agonistic type-level permission system",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
